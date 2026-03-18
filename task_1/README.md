@@ -23,6 +23,8 @@ This project implements three classification models for the MNIST handwritten di
 
 ## Setup and Installation
 
+*Note: This project is implemented in Python 3.12*
+
 1. Clone the repository
 
 ```
